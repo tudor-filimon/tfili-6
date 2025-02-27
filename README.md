@@ -1,13 +1,17 @@
-- 👋 Hi, I’m Tudor!
-- 👀 In the short term, I am interested in learning user-focused full-stack development in both websites and applications. In the long term, I am interested in learning more about AI and what actually makes up the word "Artificial Intelligence".
-- 🌱 I’m currently learning Java!
-- 💞️ I’m looking to collaborate on N/A at the moment.
-- 📫 How to reach me
-    - LinkedIn: www.linkedin.com/in/tudor-filimon/
-    - Email: tfilimon@uwo.ca
-- ⚡ Hobbies: basketball, working out, climbing, reading, and anime/manga!
+Hi There 👋, and Welcome to My GitHub!
+My name is Tudor and I am a 1st year CS 💻 student from the University of Western Ontario 🟪⬜, also pursuing business. My primary interests right now are in learning fullstack development and API testing.
 
-<!---
-tfili-6/tfili-6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ Fun facts about me
+I like to play basketball, boulder, bake on my off time, watch anime and read manga, and take hikes in nature.
+
+🛠 Languages and Skills
+I've primarily worked with Java & Python in my school work. On top this, I'm working with JavaScript, Python, Flask, React/React Native, and Express/Node in my current projects. I've also dabbled a bit in Postgres.
+
+🔭 Some Projects I'm Working On
+Syllabi 📆 - A syllabus and calendar pdf analyzer, allowing students to generate assignment trackers in google sheets and export their calendars to google calendar in just two clicks.
+Umami 🍲 - Collaborating with my 4 fellow directors @ WFN to create a recipe generator app, allowing users to upload pictures of ingredients to generate recipes, and post their creations on a global dashboard and interact with their friends!
+
+📫 How to reach me:
+Email: tfilimon@uwo.ca
+LinkedIn: https://www.linkedin.com/in/tudor-filimon/
+Instagram: https://www.instagram.com/tudor_06/
