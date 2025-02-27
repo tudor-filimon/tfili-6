@@ -1,10 +1,13 @@
 Hi There 👋, and Welcome to My GitHub!
+
 My name is Tudor and I am a 1st year CS 💻 student from the University of Western Ontario 🟪⬜, also pursuing business. My primary interests right now are in learning fullstack development and API testing.
 
 ⚡ Fun facts about me
+
 I like to play basketball, boulder, bake on my off time, watch anime and read manga, and take hikes in nature.
 
 🛠 Languages and Skills
+
 I've primarily worked with Java & Python in my school work. On top this, I'm working with JavaScript, Python, Flask, React/React Native, and Express/Node in my current projects. I've also dabbled a bit in Postgres.
 
 🔭 Some Projects I'm Working On
