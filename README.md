@@ -10,7 +10,7 @@ I like to play basketball, boulder, bake on my off time, watch anime and read ma
 
 🛠 **Languages and Skills**
 
-I've primarily worked with Java & Python in my school work. On top this, I'm working with JavaScript, Python, Flask, React/React Native, and Express/Node in my current projects. I've also dabbled a bit in Postgres.
+I've primarily worked with Java & Python in my school work. On top this, I'm working with JavaScript, Flask, React/React Native, and Express/Node in my current projects. I've also dabbled a bit in Postgres and MongoDB.
 
 
 🔭 **Some Projects I'm Working On**
@@ -18,7 +18,6 @@ I've primarily worked with Java & Python in my school work. On top this, I'm wor
 Syllabi 📆 - A web app tool that allows students to upload their course outlines and instantly export their course schedule to Google Calendar.
 
 Umami 🍲 - Collaborating with my 4 fellow directors @ WFN to create a recipe app, allowing users to upload pictures of ingredients to generate recipes, and post their creations on a global dashboard and interact with their friends!
-
 
 **📫 How to reach me:**
 Email: tfilimon@uwo.ca
