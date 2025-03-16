@@ -1,6 +1,6 @@
 # Hi There 👋, and Welcome to My GitHub!
 
-My name is Tudor and I am a 1st year CS 💻 student from the University of Western Ontario 🟪⬜, also pursuing Ivey's business program. My primary interests right now are in learning fullstack development and API testing, and how software is developed at the enterprise/business level.
+My name is Tudor and I am a 1st year CS 💻 student from the University of Western Ontario 🟪⬜, also pursuing Ivey's business program. 
 
 
 ⚡ **Fun facts about me**
