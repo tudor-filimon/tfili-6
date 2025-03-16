@@ -24,5 +24,3 @@ Umami 🍲 - Collaborating with my 4 fellow directors @ WFN to create a recipe a
 Email: tfilimon@uwo.ca
 
 LinkedIn: https://www.linkedin.com/in/tudor-filimon/
-
-Instagram: https://www.instagram.com/tudor_06/
